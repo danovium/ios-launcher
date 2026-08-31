@@ -25,7 +25,7 @@
 1. Connect your iDevice (phone) to your computer via cable and trust the computer on your iDevice when prompted (trusting the computer is an important step!).
 2. Download iloader on your computer and LocalDevVPN on your iDevice as mentioned in the **Prerequisites** section.
 3. Sign in with your Apple ID in iloader.
-4. In the **Installers** section of iloader, click "SideStore (Stable)" if you are below **iOS 26.4**. If not, click "SideStore (Nightly)."
+4. In the **Installers** section of iloader, click "SideStore (Stable)"
 5. You will most likely get an **Untrusted Developer** error. To fix this, go to Settings > General > VPN and Device Management > Your Apple ID and press Trust. After doing this, move to the **Enabling Developer Mode** section below.
 > [!NOTE]
 > The Developer Mode option will not show up if you do not install SideStore! It will only appear when you install SideStore. So make sure to follow the **Install SideStore** section first, then try to enable Developer Mode.
